@@ -26,18 +26,19 @@
             android:inputType="textPersonName"
             android:text="@string/num_2" />
 
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
         <Button
             android:id="@+id/button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/result_btn" />
 
-        <EditText
-            android:id="@+id/result"
+        <Space
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:text="@string/resul_text" />
+            android:layout_height="wrap_content" />
+
     </LinearLayout>
 </androidx.core.widget.NestedScrollView>
