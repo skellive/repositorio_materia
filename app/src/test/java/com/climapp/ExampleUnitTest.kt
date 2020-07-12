@@ -1,4 +1,4 @@
-package com.kotlin.poject_tendencias
+package com.climapp
 
 import org.junit.Test
 

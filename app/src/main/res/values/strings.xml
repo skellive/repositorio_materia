@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name">poject_tendencias</string>
-    <string name="num_1">Numero 1</string>
-    <string name="num_2">Numero 2</string>
-    <string name="resul_text">Resultado</string>
-    <string name="result_btn">Calcular</string>
+    <string name="app_name">ClimApp</string>
+    <string name="weather_current_city">Clima en Mi Ubicacion</string>
+    <string name="search_city_weather">Buscar clima en otra ciudad</string>
 </resources>
