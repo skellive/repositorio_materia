@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">ClimApp</string>
-    <string name="weather_current_city">Clima en Mi Ubicacion</string>
-    <string name="search_city_weather">Buscar clima en otra ciudad</string>
+    <string name="app_name">SAVEPRO</string>
+
+        <string name="URL_OBTENER_VENTAS">http://192.168.1.6:8000/prueba_log/ObtenerVentas.php</string>
+        <string name="URL_REGISTRAR_SERVIDOR">http://192.168.1.6:8000/prueba_log/RegistrarVentas.php</string>
+
+
 </resources>
